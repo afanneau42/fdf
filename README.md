@@ -10,7 +10,7 @@ The main difficulties are to **understand the library** and **find mathematical 
 
 `./fdf test_maps/42.fdf`
 
-![42](/.readme_images/42.png)
+![42](git@github.com:afanneau42/readme_ressources.git/readme_ressources/fractol/42.png)
 
 
 `./fdf test_maps/pylone.fdf`
