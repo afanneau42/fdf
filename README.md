@@ -15,12 +15,12 @@ The main difficulties are to **understand the library** and **find mathematical 
 
 `./fdf test_maps/pylone.fdf`
 
-![pylone](/.readme_images/pylone.png)
+![pylone](https://github.com/afanneau42/readme_ressources/blob/master/fdf/pylone.png)
 
 
 `./fdf test_maps/mars.fdf`
 
-![mars](/.readme_images/mars.png)
+![mars](https://github.com/afanneau42/readme_ressources/blob/master/fdf/mars.png)
 
 
 ## **Commands availables**
